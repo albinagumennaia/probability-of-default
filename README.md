@@ -106,7 +106,10 @@ probability-of-default/
 │── probability-of-default-pd.ipynb
 │── README.md
 │── requirements.txt
-│── images/
+│── pd_report
+│── pd_presentation
+│── model_comparison.png
+
 ```
 
 ---

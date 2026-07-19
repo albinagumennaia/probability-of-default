@@ -73,7 +73,7 @@ The following models were developed and evaluated:
 
 ## Model Performance
 
-![Model Comparison](model_comparison.png)
+![Model Comparison](model_comparison_table.png)
 
 ---
 

@@ -79,9 +79,9 @@ The following models were developed and evaluated:
 
 ## Final Model
 
-The **hyperparameter-tuned XGBoost model** achieved the strongest overall predictive performance and was selected as the final model.
+The **Baseline XGBoost model** was selected as the final model because it provided the best overall trade-off across the key evaluation metrics. It achieved the highest ROC-AUC and Gini coefficient while maintaining relatively high recall for the default class.
 
-Although Balanced Logistic Regression produced nearly identical results while offering greater interpretability, XGBoost achieved the highest ROC-AUC and the best overall balance between identifying defaulted borrowers and minimizing false classifications.
+Although Balanced Logistic Regression offered greater interpretability and comparable overall performance across both classes, Baseline XGBoost demonstrated better discriminatory performance and higher default recall.
 
 ---
 

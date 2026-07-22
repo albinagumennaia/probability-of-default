@@ -107,7 +107,7 @@ probability-of-default/
 │── README.md
 │── requirements.txt
 │── pd_report
-│── pd_presentation
+│── Loan_Default_Prediction_presentation.pdf
 │── model_comparison.png
 
 ```

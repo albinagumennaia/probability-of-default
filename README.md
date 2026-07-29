@@ -106,7 +106,7 @@ probability-of-default/
 │── probability-of-default-modeling.ipynb
 │── README.md
 │── requirements.txt
-│── pd_report
+│── Probability_of_Default_Modeling_Report.pdf
 │── Loan_Default_Prediction_presentation.pdf
 │── model_comparison.png
 

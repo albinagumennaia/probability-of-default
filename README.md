@@ -1,4 +1,4 @@
-# Loan Default Prediction Using Machine Learning
+# Probability of Default (PD) Modeling Using Machine Learning
 
 ## Project Overview
 
@@ -103,7 +103,7 @@ Although Balanced Logistic Regression offered greater interpretability and compa
 ```
 probability-of-default/
 
-│── probability-of-default-pd.ipynb
+│── probability-of-default-modeling.ipynb
 │── README.md
 │── requirements.txt
 │── pd_report
